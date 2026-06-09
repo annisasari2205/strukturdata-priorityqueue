@@ -90,7 +90,7 @@ text-align:center;
 font-size:18px;
 color:#666666;">
 Selamat Datang! Aplikasi ini digunakan untuk mengelola antrean pasien secara cepat,
-mudah, dan terorganisir menggunakan <b>Priority Queue</b>.
+mudah, dan terorganisir dengan sistem <b>Prioritas</b>.
 </p>
 """, unsafe_allow_html=True)
 
