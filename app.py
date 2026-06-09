@@ -70,7 +70,7 @@ if "antrian" not in st.session_state:
 # KONFIGURASI HALAMAN
 # =====================================
 st.set_page_config(
-    page_title="Sistem Antrean Puskesmas",
+    page_title="Aplikasi Antrean Puskesmas",
     page_icon="🏥",
     layout="wide"
 )
@@ -89,7 +89,7 @@ color:#0066CC;">
 text-align:center;
 font-size:18px;
 color:#666666;">
-Selamat Datang! Sistem ini digunakan untuk mengelola antrean pasien secara cepat,
+Selamat Datang! Aplikasi ini digunakan untuk mengelola antrean pasien secara cepat,
 mudah, dan terorganisir menggunakan <b>Priority Queue</b>.
 </p>
 """, unsafe_allow_html=True)
